@@ -1,0 +1,16 @@
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\bin\Debug\netcoreapp2.1\WebApiScratch.deps.json
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\bin\Debug\netcoreapp2.1\WebApiScratch.runtimeconfig.json
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\bin\Debug\netcoreapp2.1\WebApiScratch.runtimeconfig.dev.json
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\bin\Debug\netcoreapp2.1\WebApiScratch.dll
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\bin\Debug\netcoreapp2.1\WebApiScratch.pdb
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.csprojAssemblyReference.cache
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.AssemblyInfoInputs.cache
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.AssemblyInfo.cs
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.csproj.CoreCompileInputs.cache
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.RazorAssemblyInfo.cache
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.RazorAssemblyInfo.cs
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.RazorTargetAssemblyInfo.cache
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.dll
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.pdb
+C:\Users\16124\Desktop\c#\WebApiScratch\WebApiScratch\obj\Debug\netcoreapp2.1\WebApiScratch.genruntimeconfig.cache

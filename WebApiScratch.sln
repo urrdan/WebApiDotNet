@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiScratch", "WebApiScratch\WebApiScratch.csproj", "{F9EC0C33-973C-4081-9910-663E4ADA6F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EC0C33-973C-4081-9910-663E4ADA6F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EC0C33-973C-4081-9910-663E4ADA6F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EC0C33-973C-4081-9910-663E4ADA6F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EC0C33-973C-4081-9910-663E4ADA6F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938472E8-151D-4093-9615-66DE2B623C78}
+	EndGlobalSection
+EndGlobal
